@@ -77,3 +77,7 @@ GitHub: https://github.com/R2K-3D
 ## 🤝 Assistance / Collaboration
 **SPluzh**  
 GitHub: https://github.com/SPluzh
+
+---
+
+**License: MIT**
