@@ -4,7 +4,7 @@ Plugin / Script for Cinema 4D (2023–2025)
 A convenient, flexible, and user-friendly tool for batch renaming objects in Cinema 4D.  
 Unlike the built-in **Naming Tool**, this script offers more options, a simple interface, and clear, intuitive logic.
 
-[Simple_Rename.tif](https://github.com/user-attachments/files/23651599/Simple_Rename.tif)
+<img width="356" height="575" alt="Simple_Rename" src="https://github.com/user-attachments/assets/686d7733-51a3-40a3-b5c1-e04b52f53a12" />
 
 ---
 
@@ -86,4 +86,5 @@ GitHub: https://github.com/SPluzh
 ---
 
 **License: MIT**
+
 
