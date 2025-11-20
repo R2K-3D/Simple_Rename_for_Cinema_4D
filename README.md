@@ -55,8 +55,6 @@ C:\Users\<User>\AppData\Roaming\Maxon\Cinema 4D <version>\library\scripts
 ```
 
 **macOS: (not tested)**  
-```
-```
 
 2. Restart Cinema 4D.
 3. The script will appear in the menu:  
@@ -85,6 +83,7 @@ GitHub: https://github.com/SPluzh
 ---
 
 **License: MIT**
+
 
 
 
