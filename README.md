@@ -45,6 +45,8 @@ Cleanup works as a standalone function and fully supports Undo.
 
 ## 📦 Installation
 
+1. Copy the Python script file and its shortcut to the following folder:
+
 **Windows:**  
 ```
 C:\Users\<User>\AppData\Roaming\Maxon\Cinema 4D <version>\library\scripts
@@ -55,7 +57,8 @@ C:\Users\<User>\AppData\Roaming\Maxon\Cinema 4D <version>\library\scripts
 /Users/<User>/Library/Preferences/Maxon/Cinema 4D <version>/library/scripts
 ```
 
-After installation, the script will appear in:  
+2. Restart Cinema 4D.
+3. The script will appear in the menu:  
 **Extensions → User Scripts**  
 or  
 **Script Manager → Scripts**
