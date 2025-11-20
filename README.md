@@ -1,5 +1,5 @@
 # Simple Rename by R2K-3D
-Plugin / Script for Cinema 4D (R21–2025)
+Plugin / Script for Cinema 4D (2023–2025)
 
 A convenient, flexible, and user-friendly tool for batch renaming objects in Cinema 4D.  
 Unlike the built-in **Naming Tool**, this script offers more options, a simple interface, and clear, intuitive logic.
