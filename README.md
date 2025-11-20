@@ -54,9 +54,8 @@ Cleanup works as a standalone function and fully supports Undo.
 C:\Users\<User>\AppData\Roaming\Maxon\Cinema 4D <version>\library\scripts
 ```
 
-**macOS:**  
+**macOS: (not tested)**  
 ```
-/Users/<User>/Library/Preferences/Maxon/Cinema 4D <version>/library/scripts
 ```
 
 2. Restart Cinema 4D.
@@ -86,6 +85,7 @@ GitHub: https://github.com/SPluzh
 ---
 
 **License: MIT**
+
 
 
 
