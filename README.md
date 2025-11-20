@@ -8,7 +8,7 @@ Unlike the built-in **Naming Tool**, this script offers more options, a simple i
 
 ## ✨ Features
 
-### 🔜 Renaming
+### 🔤 Renaming
 - Full object name replacement  
 - *“Replace & Prefix/Postfix”* mode — partial replacement with prefix and postfix addition  
 - Numbering with selectable position (before / after name)  
@@ -19,7 +19,7 @@ Unlike the built-in **Naming Tool**, this script offers more options, a simple i
 
 ---
 
-## 🤹 Name Cleanup
+## 🧹 Name Cleanup
 - **Off** — cleanup disabled  
 - **From end (default)** — removes all characters after the last letter  
 - **From start** — removes all characters before the first letter  
@@ -35,7 +35,7 @@ Cleanup works as a standalone function and fully supports Undo.
 
 ---
 
-## 🥩 Interface Features
+## 🧩 Interface Features
 - Non-modal window — you can change selection while the script is open  
 - Interactive controls  
 - *Cleanup* button is active only when a cleanup mode is selected  
@@ -66,6 +66,7 @@ or
 - New renaming functions  
 - Interface improvements  
 - Increased stability and optimization for large scenes  
+- Saving presets and last used settings  
 
 ---
 
