@@ -7,6 +7,8 @@
 
 Advanced batch renaming tool for Cinema 4D objects with live preview, preset management, and flexible naming options.
 
+<img width="356" height="708" alt="Simple Rename_v1 07" src="https://github.com/user-attachments/assets/36dfd659-e084-4f9d-ab0f-086620f1ab9c" />
+
 ## ✨ Features
 
 - **Batch Renaming** - Rename multiple objects at once with consistent naming patterns
